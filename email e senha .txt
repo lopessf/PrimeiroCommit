@@ -1,0 +1,9 @@
+email: franciellyalonsobonfim@gmail.com
+senha: frannlopes2007
+
+
+
+comandos:
+
+cd fran (abrir pasta)
+clear (apagar comando)
